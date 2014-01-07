@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Oct 29 21:03:49 GMT 2013
+http\://scala-tools.org/repo-snapshots/.lastUpdated=1382351111426
+https\://oss.sonatype.org/content/groups/staging/.error=
+default-https\://oss.sonatype.org/content/groups/public/.lastUpdated=1383080629758
+https\://oss.sonatype.org/content/groups/public/.error=Could not transfer artifact javacv\:javacv\:pom\:1 from/to sonatype-public (https\://oss.sonatype.org/content/groups/public/)\: oss.sonatype.org
+http\://robokind-dl.com/robosteps/mvn/.error=Could not transfer artifact javacv\:javacv\:pom\:1 from/to robosteps (http\://robokind-dl.com/robosteps/mvn/)\: robokind-dl.com
+default-http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1383080629778
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1383080629798
+http\://repository.springsource.com/maven/bundles/external/.error=Could not transfer artifact javacv\:javacv\:pom\:1 from/to com.springsource.repository.bundles.external (http\://repository.springsource.com/maven/bundles/external)\: repository.springsource.com
+http\://scala-tools.org/repo-releases/.lastUpdated=1382351111027
+http\://scala-tools.org/repo-releases/.error=
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javacv\:javacv\:pom\:1 from/to central (http\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+http\://scala-tools.org/repo-snapshots/.error=
+https\://oss.sonatype.org/content/groups/staging/.lastUpdated=1382351112356
+default-http\://robokind-dl.com/robosteps/mvn/.lastUpdated=1383080629748

@@ -1,0 +1,9 @@
+----- Child -----
+Code: 03
+Name: Vitor
+Gender: MALE
+Date of Birth: 1/1/2001
+School: EB2Gualtar
+Reinforcement: VERBAL_MOVEMENT
+Total # Sessions: 0
+----------------------------
